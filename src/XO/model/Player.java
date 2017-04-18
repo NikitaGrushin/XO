@@ -12,6 +12,8 @@ public class Player {
         this.name = name;
         this.figure = figure;
     }
+    //asfa
+
 
     public String getName(){
         return this.name;
